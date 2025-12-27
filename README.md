@@ -1,4 +1,14 @@
-## Hi there 👋
+## Heya There Users :]
+
+> Myself RetroArc, 19y/o OpenSUSE tumbleweed user (on VMware) and humble programmer only knowing .c and .sh for the time.
+
+> Interested in UI/UX Designing and also in Biotechnology field in college.
+
+> Creator & Maintainer of Perfetch V-1.0.0, hope you like it but if not, no worries.
+
+> Still building character...
+
+> Will be uploading and updating more in future... till then, enjoy.
 
 <!--
 **RetroGitArc/RetroGitArc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
