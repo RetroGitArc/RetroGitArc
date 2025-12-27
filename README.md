@@ -4,7 +4,7 @@
 
 > Interested in UI/UX Designing and also in Biotechnology field in college.
 
-> Creator & Maintainer of Perfetch V-1.0.0, hope you like it but if not, no worries.
+> Creator & Maintainer of **Perfetch V-1.0.0**, hope you like it but if not, no worries.
 
 > Still building character...
 
